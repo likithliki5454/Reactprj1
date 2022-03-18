@@ -1,0 +1,45 @@
+[
+
+    {
+        "id":1,
+        "name":"Akshit",
+        "city":"Moradabad",
+        "image1":"./img2/image11.jpg"
+    },
+    
+    {
+        "id":2,
+        "name":"Nikita",
+        "city":"Lucknow",
+        "image1":"./img2/image12.jpg"
+    },
+    
+    {
+        "id":3,
+        "name":"Deeksha",
+        "city":"Noida",
+        "image1":"./img2/image13.jpg"
+    },
+    
+    {
+        "id":4,
+        "name":"Ritesh",
+        "city":"Delhi",
+        "image1":"./img2/image14.jpg"
+    },
+    
+    {
+        "id":5,
+        "name":"Somya",
+        "city":"Gurugram",
+        "image1":"./img2/image15.jpg"
+    },
+    
+    {
+        "id":6,
+        "name":"Eshika",
+        "city":"Mumbai",
+        "image1":"./img2/image16.jpg"
+    }
+   
+]
